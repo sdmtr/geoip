@@ -6,6 +6,7 @@
    * Provides a quick way to harness the information inferred by mod_geoip2
    * about the current visitor based on the maxmind geoip database. For more
    * information, see http://dev.maxmind.com/geoip/legacy/mod_geoip2/ and 
+   * https://github.com/sdmtr/geoip
    * 
    * @author Savvas Dimitriou <savvas@sdmtr.com>
    * @copyright Public Domain 

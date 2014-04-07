@@ -1,5 +1,4 @@
 GeoIP
-GeoIP
 =====
 
 The GeoIP PHP class provides a quick way to use the information inferred by mod_geoip2 about the current visitor based on the MaxMind geoip database.
