@@ -82,7 +82,7 @@
      */
     public static function is_blocked() {
       if (getenv('GEOIP_COUNTRY_CODE'))
-        return in_array(getenv('GEOIP_COUNTRY_CODE'), self::$_blocked_countries);
+        return in_array(getenv('GEOIP_COUNTRY_CODE'), self::$_blocked_country_code);
       else
         return false;
     }
